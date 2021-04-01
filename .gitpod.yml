@@ -1,0 +1,7 @@
+vscode:
+  extensions:
+    - ms-vscode.go@0.14.3:ubq/hxMM96YNfNMjp5pfaQ==
+    - testerthiri.galaxie@0.0.1:CIYvwzLcezccoj2ZZtMp2Q==
+  ports:
+    - port: 9099
+      onOpen: open-preview
